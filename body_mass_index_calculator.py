@@ -1,4 +1,4 @@
-print("Welcome to the Body Mass Index Calculator.")
+print("Welcome to the Body Mass Index Calculator!")
 
 height = input("What is your height in meters? \n")
 weight = input("What is your weight in kilograms? \n")
