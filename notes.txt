@@ -1,0 +1,11 @@
+Data Types:
+
+String / Str / Text
+Integer / Int / Whole Numbers, can be seperated by _
+Float / Float / Decimal Numbers, can be seperated by _
+Boolean / ????? / True or False
+
+
+F Strings
+
+print(f"Hello {name}")

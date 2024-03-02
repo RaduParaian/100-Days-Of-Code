@@ -1,2 +1,2 @@
-# Band-Name-Generator
-Generator for potential band names
+# Small-Python-Projects
+Many small python projects
