@@ -50,3 +50,20 @@ Not equal to !=
 
 Add value +=
 Subtract value +=
+
+
+
+While Loop:
+
+loop = True
+
+while loop == True:
+    do this
+
+
+
+Logical Operators:
+
+not
+or
+and
