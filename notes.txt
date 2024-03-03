@@ -5,13 +5,13 @@ Integer / Int / Whole Numbers, can be seperated by _
 Float / Float / Decimal Numbers, can be seperated by _
 Boolean / ????? / True or False
 
-
+/////////////////////////////////////////////////////
 
 F Strings:
 
 print(f"Hello {name}")
 
-
+/////////////////////////////////////////////////////
 
 Mathematical Operators:
 
@@ -26,7 +26,7 @@ Subtract = -
 
 Modulo = % (Remainder after division)
 
-
+/////////////////////////////////////////////////////
 
 If / Else:
 
@@ -37,7 +37,7 @@ elif condition:
 else:
     do this
 
-
+/////////////////////////////////////////////////////
 
 Comparison:
 
@@ -51,7 +51,7 @@ Not equal to !=
 Add value +=
 Subtract value +=
 
-
+/////////////////////////////////////////////////////
 
 While Loop:
 
@@ -60,10 +60,12 @@ loop = True
 while loop == True:
     do this
 
-
+/////////////////////////////////////////////////////
 
 Logical Operators:
 
 not
 or
 and
+
+/////////////////////////////////////////////////////
