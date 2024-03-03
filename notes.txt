@@ -72,4 +72,44 @@ and
 
 Random:
 
+import random
+
+random.randint() integer
+
+random.random() float
+
+/////////////////////////////////////////////////////
+
+Import:
+
+import "file"
+
+/////////////////////////////////////////////////////
+
+Time:
+
+import Time
+
+time.sleep(1)
+
+/////////////////////////////////////////////////////
+
+Lists:
+
+lists = ["item1", "item2", "item3"]
+
+list[start 0, last -1]
+
+list[1] = "No" (second item will be "No")
+
+list.append("add extra to the end")
+list.extend(["add", "new", "list"])
+
+Nested list
+
+list1 = ["item1", "item2", "item3"]
+list2 = ["item1", "item2", "item3"]
+
+almighty_list = ["list1", "list2"]
+
 /////////////////////////////////////////////////////
