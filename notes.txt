@@ -6,6 +6,47 @@ Float / Float / Decimal Numbers, can be seperated by _
 Boolean / ????? / True or False
 
 
-F Strings
+
+F Strings:
 
 print(f"Hello {name}")
+
+
+
+Mathematical Operators:
+
+BIDMAS Brackets - Index - Divide- Multiply - Add - Subtract
+
+Brackets = ()
+Index = **
+Divide = /
+Multiply = *
+Add = +
+Subtract = -
+
+Modulo = % (Remainder after division)
+
+
+
+If / Else:
+
+if condition:
+    do this
+elif condition:
+    do this
+else:
+    do this
+
+
+
+Comparison:
+
+Greater than >
+Less than <
+Greater than or equal to >=
+Less than or equal to <=
+Equal to ==
+Not equal to !=
+
+Add value +=
+Subtract value +=

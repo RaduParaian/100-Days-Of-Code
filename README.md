@@ -1,2 +1,2 @@
-# Small-Python-Projects
-Many small python projects
+# 100-Days-Of-Code
+Small python projects for 100 days of coding
