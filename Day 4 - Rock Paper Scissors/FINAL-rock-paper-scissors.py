@@ -65,35 +65,40 @@ while play_loop == True:
     if user_choice == 0 and computer_choice == 2:
         user_score +=  1
         print("You win!")
+        time.sleep(0.5)
+        print(leaderboard)
     elif computer_choice == 0 and user_choice == 2:
         computer_score += 1
         print("You lose")
+        time.sleep(0.5)
+        print(leaderboard)
     elif computer_choice > user_choice:
         computer_score += 1
         print("You lose")
+        time.sleep(0.5)
+        print(leaderboard)
     elif user_choice > computer_choice:
         user_score +=  1
         print("You win!")
+        time.sleep(0.5)
+        print(leaderboard)
     elif computer_choice == user_choice:
         print("It's a draw")
+        time.sleep(0.5)
+        print(leaderboard)
 
     time.sleep(1)
 
     play_again_loop = True
     while play_again_loop == True:
-        again_choice = input("Play again, or check the leaderboard? y, n, or l. \n").lower()
+        again_choice = input("Play again? y, or n. \n").lower()
         if again_choice == "y":
             play_loop = True
             play_again_loop = False
         elif again_choice == "n":
             play_loop = False
             play_again_loop = False
-            print(leaderboard)
-            time.sleep(1)
-        elif again_choice == "l":
-            play_loop = True
-            play_again_loop = False
-            print(leaderboard)
+            
             time.sleep(1)
         else:
             play_again_loop = True
