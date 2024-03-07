@@ -113,3 +113,8 @@ list2 = ["item1", "item2", "item3"]
 almighty_list = ["list1", "list2"]
 
 /////////////////////////////////////////////////////
+
+For Loops:
+
+for item in items:
+    print(item)
